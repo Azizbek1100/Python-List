@@ -6,7 +6,9 @@
 
 **Task 03:** 3 ta ism va 3 ta yoshdan iborat 2 ta ro‘yxat yarating va ichma-ich list hosil qiling.
 
-**Task 04:** `input()` yordamida foydalanuvchidan 3 ta ism olib ro‘yxat yarating.
+*
+**Task 11:** 10 ta sondan iborat ro‘yxatning 3-dan 6-gacha bo‘lgan qismini chiqaring.
+*Task 04:** `input()` yordamida foydalanuvchidan 3 ta ism olib ro‘yxat yarating.
 
 **Task 05:** Ichida 2 ta ichma-ich ro‘yxat mavjud bo‘lgan (2x2 shaklda) ro‘yxat yarating va ularni chiroyli chiqaruvchi dastur yozing.
 
@@ -27,8 +29,6 @@
 ---
 
 ### 🔵 **3. List slicing bo‘yicha – 5 ta task**
-
-**Task 11:** 10 ta sondan iborat ro‘yxatning 3-dan 6-gacha bo‘lgan qismini chiqaring.
 
 **Task 12:** Ro‘yxatdagi barcha elementlardan faqat juft indeksdagilarni chiqaring (`0, 2, 4...`).
 
